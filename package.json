@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "test": "node index.test | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrihaboski/QA01.git"
+  },
+  "author": "Andrieli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrihaboski/QA01/issues"
+  },
+  "homepage": "https://github.com/andrihaboski/QA01#readme",
+
+  "dependencies" :{
+"tap-spec ": "^5.0.0" ,
+  "TAPE": "^5.5.3"
+  }
+}  
+
+
